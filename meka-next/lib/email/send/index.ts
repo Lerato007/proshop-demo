@@ -1,5 +1,0 @@
-export { sendOrderConfirmation } from "./confirmation"
-export { sendShippedEmail } from "./shipped"
-export { sendDeliveredEmail } from "./delivered"
-export { sendNewOrderAdminEmail } from "./new-order-admin"
-export { sendPasswordResetEmail } from "./password-reset"
